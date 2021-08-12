@@ -24,14 +24,19 @@
         - 2014-2020: Staff TAM, Team Lead, CTO Ambassador @ VMware
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Professional Media</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
+        <a
+          href="https://vmw.mynewsletter.club/vmwnews"
+          target="_blank"
+          rel="noopener"
+          >Newsletter</a
+        >
       </li>
       <li>
-        <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Forum</a
+        <a href="https://github.com/neiliss" target="_blank" rel="noopener"
+          >Github</a
         >
       </li>
       <li>
