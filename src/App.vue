@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld
-    msg="| NEIL ISSEROW – RESUME | CALIFORNIA, USA | NEIL@ISSEROW.COM | 415-515-0222 |"
+    msg="| NEIL ISSEROW | CALIFORNIA, USA | NEIL@ISSEROW.COM | 415-515-0222 |"
   />
 </template>
 
